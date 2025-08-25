@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Milestone Arts Pvt Ltd</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Milestone Arts Pvt Ltd</h1>
+      <p class="motto">Centre of precise craftsmanship, unparalleled excellence.</p>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About Us</a></li>
+          <li><a href="activities.html">Activities</a></li>
+          <li><a href="blog.html">Blog</a></li>
+          <li><a href="testimonials.html">Testimonials</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="container">
+      <h2>Unleashing Creative Mastery</h2>
+      <p>At Milestone Arts Pvt Ltd, we merge innovation with tradition to craft works that inspire and endure.</p>
+      <a href="about.html" class="btn">Discover More</a>
+    </div>
+  </section>
+
+  <section class="highlights">
+    <div class="container">
+      <h3>Why Choose Us?</h3>
+      <div class="features">
+        <div class="feature">
+          <h4>Craftsmanship</h4>
+          <p>Precision in every detail, delivering masterpieces that speak volumes.</p>
+        </div>
+        <div class="feature">
+          <h4>Innovation</h4>
+          <p>Pioneering new standards in art and design through cutting-edge approaches.</p>
+        </div>
+        <div class="feature">
+          <h4>Excellence</h4>
+          <p>Uncompromising quality and service, tailored for distinction.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 Milestone Arts Pvt Ltd | Contact: +263789691694 | Email: milestonesyz1pvtltd.com</p>
+    </div>
+  </footer>
+</body>
+</html>

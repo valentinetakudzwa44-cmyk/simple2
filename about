@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>About Us | Milestone Arts Pvt Ltd</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Milestone Arts Pvt Ltd</h1>
+      <p class="motto">Centre of precise craftsmanship, unparalleled excellence.</p>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About Us</a></li>
+          <li><a href="activities.html">Activities</a></li>
+          <li><a href="blog.html">Blog</a></li>
+          <li><a href="testimonials.html">Testimonials</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section class="container">
+    <h2>About Us</h2>
+    <p>Founded with a vision to elevate craftsmanship to a fine art, Milestone Arts Pvt Ltd is a beacon of quality, creativity, and excellence. Our team of skilled artisans, designers, and innovators collaborate to produce exceptional works that stand the test of time. We are driven by a passion for precision and a relentless pursuit of perfection in every project we undertake.</p>
+    
+    <h3>Our Mission</h3>
+    <p>To craft artistic and functional masterpieces that reflect dedication, skill, and cultural depth while setting new standards in the industry.</p>
+    
+    <h3>Our Vision</h3>
+    <p>To become the most trusted name in precise craftsmanship globally, celebrated for our ingenuity, integrity, and impact.</p>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 Milestone Arts Pvt Ltd | Contact: +263789691694 | Email: milestoneyz1pvtltd.com</p>
+    </div>
+  </footer>
+</body>
+</html>
+Activities 
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Our Activities | Milestone Arts Pvt Ltd</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Milestone Arts Pvt Ltd</h1>
+      <p class="motto">Centre of precise craftsmanship, unparalleled excellence.</p>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About Us</a></li>
+          <li><a href="activities.html">Activities</a></li>
+          <li><a href="blog.html">Blog</a></li>
+          <li><a href="testimonials.html">Testimonials</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section class="container">
+    <h2>Our Activities</h2>
+    <ul>
+      <li><strong>Custom Art Installations:</strong> Unique and personalized art for homes, offices, and public spaces.</li>
+      <li><strong>Workshops & Training:</strong> Skill-building programs for upcoming artists and craftsmen.</li>
+      <li><strong>Product Design:</strong> Innovative product solutions for lifestyle, decor, and functional art.</li>
+      <li><strong>Consulting:</strong> Expert guidance in artistic direction, design conceptualization, and execution.</li>
+      <li><strong>Event Showcases:</strong> Hosting and participating in art exhibitions, fairs, and cultural showcases.</li>
+    </ul>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 Milestone Arts Pvt Ltd | Contact: +263789691694 | Email: milestonesyz1pvtltd.com</p>
+    </div>
+  </footer>
+</body>
+</html>
